@@ -16,9 +16,9 @@
 ### *Asignatura:* Teoría de la Programación  
 
 📘 **Estudiante:** Angulo Torres Yimmy Onner  
-👩‍🏫 **Docente:** Dra. López Faicán Lissette Geoconda  
-🏫 **Ciclo:** Primero  
-📅 **Período Académico:** 2025 - Ciclo I  
+👩‍🏫 **Docente:** Ing. Edwin Rene Guaman Quinche 
+🏫 **Ciclo:** Tercer Ciclo  
+📅 **Período Académico:** Septiembre 2026 - Febrer 2027
 📍 **Ciudad Universitaria “Guillermo Falconí Espinosa”**  
 
 ---
@@ -39,10 +39,9 @@
 
 <div align="center">
 
-[![📗 Visitar la Unidad 2](https://img.shields.io/badge/📗_Visitar_la_Unidad_2-32CD32?style=for-the-badge)](./Unidad_2/Contenidos.md)
+![📗 Proximamente]
 
 </div>
-
 
 ---
 
@@ -50,8 +49,7 @@
 
 <div align="center">
 
-[![📗 Visitar la Unidad 3](https://img.shields.io/badge/📗_Visitar_la_Unidad_2-32CD32?style=for-the-badge)](./Unidad_3/contenidos.md)
-
+![📗 Proximamente]
 </div>
 
 ---
@@ -63,15 +61,6 @@
 
 </div>
 ---
-
-# <img src="https://img.icons8.com/fluency/48/books.png" width="30"/> Referencias Unidad 1 - Unidad 2
-[![📗 Referencias Bibliograficas](https://img.shields.io/badge/📗_Referencias_Bibliograficas-32CD32?style=for-the-badge)](./Bibliografia.md)
-
----
-
-# <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="30"/> Uso de la IA
-[![📗 Declaración del Uso de la IA Generativa](https://img.shields.io/badge/📗_Uso_de_la_IA-32CD32?style=for-the-badge)](./DeclaracionIA.md)
-
 
 ---
 > “El aprendizaje de algoritmos es el primer paso para aprender a pensar como un programador.”  
