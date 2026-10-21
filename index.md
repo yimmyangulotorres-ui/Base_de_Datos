@@ -1,74 +1,66 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+<div align="center">
+<img src="https://github.com/user-attachments/assets/5bf46d3b-9cb3-432e-9d24-d464f54d1711" alt="Escudo de la Universidad Nacional de Loja" width="110" />
 
-  <img src="https://github.com/user-attachments/assets/5bf46d3b-9cb3-432e-9d24-d464f54d1711" alt="Logo UNL" width="100" height="100" />
+# 🎓 UNIVERSIDAD NACIONAL DE LOJA
+### Facultad de la Energía, las Industrias y los Recursos Naturales no Renovables
+### Carrera de Computación
 
-  <div style="text-align: center;">
-    <h1>UNIVERSIDAD NACIONAL DE LOJA</h1>
-    <h3>Facultad de la Energía, las Industrias y los Recursos Naturales no Renovables</h3>
-    <h3>Carrera de Computación</h3>
-  </div>
-
+[![📚 PORTAFOLIO DE BASE DE DATOS](https://img.shields.io/badge/%F0%9F%93%9A_PORTAFOLIO_DE_BASE_DE_DATOS-1f6feb?style=for-the-badge)](#-portafolio-digital-de-aprendizaje)
 </div>
 
 ---
 
-## 📘 **PORTAFOLIO DIGITAL DE APRENDIZAJE**  
-### *Asignatura:* Teoría de la Programación  
+# 📘 Portafolio Digital de Aprendizaje
 
-📘 **Estudiante:** Angulo Torres Yimmy Onner  
-👩‍🏫 **Docente:** Ing. Edwin Rene Guaman Quinche 
-🏫 **Ciclo:** Tercer Ciclo  
-📅 **Período Académico:** Septiembre 2026 - Febrer 2027
-📍 **Ciudad Universitaria “Guillermo Falconí Espinosa”**  
+| 📋 Información académica | Detalle |
+|:---|:---|
+| 👨‍🎓 **Estudiante** | Angulo Torres Yimmy Onner |
+| 👨‍🏫 **Docente** | Ing. Edwin Rene Guaman Quinche |
+| 🏫 **Ciclo** | Tercer Ciclo |
+| 📅 **Período académico** | Septiembre 2026 – Febrero 2027 |
+| 📍 **Institución** | Universidad Nacional de Loja |
+| 📖 **Asignatura** | Base de Datos |
+
+> 💡 **Objetivo:** reunir los conceptos, prácticas y ejercicios desarrollados durante las tres unidades de aprendizaje de la asignatura.
 
 ---
 
-# 📘 Unidad 1
+## 🧭 Unidades de aprendizaje
+
+### 🟢 Unidad 1 — Fundamentos de Bases de Datos
+
+🗃️ **Bases de datos** · ⚙️ **SGBD** · 🔷 **Modelo entidad-relación** · 🧩 **9 ejercicios**
 
 <div align="center">
 
-[![📗 Visitar la Unidad 1](https://img.shields.io/badge/📗_Visitar_la_Unidad_1-32CD32?style=for-the-badge)](./Unidad_1/Contenidos.md)
+[![📗 EXPLORAR UNIDAD 1](https://img.shields.io/badge/%F0%9F%93%97_EXPLORAR_UNIDAD_1-2da44e?style=for-the-badge)](Unidad_1/README.md)
 
 </div>
 
----
+### 🔵 Unidad 2 — Próximamente
 
-# <img src="https://img.icons8.com/fluency/48/laptop.png" width="30"/> Unidad 2
-
-
+📅 Los contenidos se incorporarán a medida que avance el período académico.
 
 <div align="center">
 
-![📗 Proximamente]
+[![⏳ PRÓXIMAMENTE](https://img.shields.io/badge/%E2%8F%B3_PR%C3%93XIMAMENTE-0969da?style=for-the-badge)](Unidad_2/README.md)
 
 </div>
 
----
+### 🟣 Unidad 3 — Próximamente
 
-# <img src="https://img.icons8.com/fluency/48/brain.png" width="30"/> Unidad 3
+🚀 Espacio reservado para las futuras actividades y evidencias de aprendizaje.
 
 <div align="center">
 
-![📗 Proximamente]
+[![⏳ PRÓXIMAMENTE](https://img.shields.io/badge/%E2%8F%B3_PR%C3%93XIMAMENTE-8957e5?style=for-the-badge)](Unidad_3/README.md)
+
 </div>
 
 ---
-# <img src="https://img.icons8.com/fluency/48/laptop.png" width="30"/> Conclusiones
 
 <div align="center">
 
-[![📗 Comclusiones](https://img.shields.io/badge/📗Conclusiones-32CD32?style=for-the-badge)](./Conclusiones.md)
+✨ **Aprender, diseñar y organizar la información.** ✨
 
 </div>
----
-
----
-> “El aprendizaje de algoritmos es el primer paso para aprender a pensar como un programador.”  
-
-<div align="left">
-
-[![⬅️ Volver al Inicio](https://img.shields.io/badge/⬅️_Volver_al_Inicio-blue?style=for-the-badge)](../index.md)
-
-</div>
-
-> 💡 *La finalidad de este portafolio es la de poder concretar todos los temas tratados dentro de la unidad 1, unidad 2 y unidad3, ademas , permitiendo incluir una sección de conclusiones*
