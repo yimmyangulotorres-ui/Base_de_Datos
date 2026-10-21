@@ -29,8 +29,6 @@
 
 ### 🟢 Unidad 1 — Fundamentos de Bases de Datos
 
-🗃️ **Bases de datos** · ⚙️ **SGBD** · 🔷 **Modelo entidad-relación** · 🧩 **9 ejercicios**
-
 <div align="center">
 
 [![📗 EXPLORAR UNIDAD 1](https://img.shields.io/badge/%F0%9F%93%97_EXPLORAR_UNIDAD_1-2da44e?style=for-the-badge)](Unidad_1/README.md)
