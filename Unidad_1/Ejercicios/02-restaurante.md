@@ -14,7 +14,7 @@ Un restaurante administra clientes, pedidos, platos, categorías y meseros; cada
 
 ## 🖼️ Diagrama entidad-relación
 
-<img width="781" height="374" alt="Captura de pantalla 2026-10-13 202325" src="https://github.com/user-attachments/assets/83e6113e-86e3-4668-b369-380de280f7bc" />
+<img width="791" height="342" alt="Restaurante drawio" src="https://github.com/user-attachments/assets/4a4f49cd-1ae3-4100-afd3-994b547b1142" />
 
 
 ## 💭 Explicación
