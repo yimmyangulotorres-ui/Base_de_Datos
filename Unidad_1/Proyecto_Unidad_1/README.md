@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="500" height="500" alt="Universidad-Nacional-de-Loja-UNL" src="https://github.com/user-attachments/assets/471db84d-9288-4cca-98d2-dcab657ef3ce" />
+<img width="100" height="100" alt="Universidad-Nacional-de-Loja-UNL" src="https://github.com/user-attachments/assets/471db84d-9288-4cca-98d2-dcab657ef3ce" />
 
 **FEIRNNR — Carrera de Computación**
 
