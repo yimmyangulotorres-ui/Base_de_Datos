@@ -1,6 +1,6 @@
 # 📗 Unidad 1 — Fundamentos de Bases de Datos
 
-[![🔷 MODELO ER](https://img.shields.io/badge/%F0%9F%94%B7_MODELO_ER-2da44e?style=for-the-badge)](#-modelo-entidad-relación-ejemplos-y-contexto) [![🧮 MODELO RELACIONAL](https://img.shields.io/badge/%F0%9F%A7%AE_MODELO_RELACIONAL-8957e5?style=for-the-badge)](Modelo_Relacional/README.md) [![💻 CÓDIGO SQL](https://img.shields.io/badge/%F0%9F%92%BB_C%C3%93DIGO_SQL-d97706?style=for-the-badge)](Codigo_SQL/README.md)
+[![🔷 MODELO ER](https://img.shields.io/badge/%F0%9F%94%B7_MODELO_ER-2da44e?style=for-the-badge)](#-modelo-entidad-relación-ejemplos-y-contexto) [![🧮 MODELO RELACIONAL](https://img.shields.io/badge/%F0%9F%A7%AE_MODELO_RELACIONAL-8957e5?style=for-the-badge)](Modelo_Relacional/README.md) [![💻 CÓDIGO SQL](https://img.shields.io/badge/%F0%9F%92%BB_C%C3%93DIGO_SQL-d97706?style=for-the-badge)](Codigo_SQL/README.md) [![📦 PROYECTO UNIDAD 1](https://img.shields.io/badge/%F0%9F%93%A6_PROYECTO_UNIDAD_1-bf3989?style=for-the-badge)](Proyecto_Unidad_1/README.md)
 
 [![🏠 VOLVER AL INICIO](https://img.shields.io/badge/%F0%9F%8F%A0_VOLVER_AL_INICIO-0969da?style=for-the-badge)](../README.md)
 
@@ -39,6 +39,7 @@ El **modelo entidad-relación (ER)** es una herramienta conceptual que represent
 | 🔷 **Modelo entidad-relación** | Conceptos, ejemplos y 9 ejercicios | [![🔷 VER MODELO ER](https://img.shields.io/badge/%F0%9F%94%B7_VER_MODELO_ER-2da44e?style=for-the-badge)](#-modelo-entidad-relación-ejemplos-y-contexto) |
 | 🧮 **Modelo relacional** | Sección en preparación | [![⏳ PRÓXIMAMENTE](https://img.shields.io/badge/%E2%8F%B3_PR%C3%93XIMAMENTE-8957e5?style=for-the-badge)](Modelo_Relacional/README.md) |
 | 💻 **Código SQL** | Sección en preparación | [![⏳ PRÓXIMAMENTE](https://img.shields.io/badge/%E2%8F%B3_PR%C3%93XIMAMENTE-d97706?style=for-the-badge)](Codigo_SQL/README.md) |
+| 📦 **Proyecto Unidad 1** | Informe de fin de unidad: agencia de turismo de Loja (modelos, SQL y consultas) | [![📦 VER PROYECTO](https://img.shields.io/badge/%F0%9F%93%A6_VER_PROYECTO-bf3989?style=for-the-badge)](Proyecto_Unidad_1/README.md) |
 
 ---
 
