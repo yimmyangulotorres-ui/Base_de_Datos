@@ -4,6 +4,8 @@
 
 <div align="center">
 
+<img width="500" height="500" alt="Universidad-Nacional-de-Loja-UNL" src="https://github.com/user-attachments/assets/471db84d-9288-4cca-98d2-dcab657ef3ce" />
+
 **FEIRNNR — Carrera de Computación**
 
 ### INFORME DE FIN DE UNIDAD
@@ -22,7 +24,6 @@
 | 🎯 **Resultado de aprendizaje de la unidad** | Modela bases de datos de problemas reales, bajo los principios de solidaridad, transparencia, responsabilidad y honestidad. |
 | 👨‍🏫 **Nombre del docente** | Edwin René Guamán Quinche |
 | 📅 **Fecha** | 12-11-2026 |
-| 🔗 **Enlace de Git** | [https://github.com/yimmyangulotorres-ui/Base_de_Datos.git](https://github.com/yimmyangulotorres-ui/Base_de_Datos.git) |
 | 👨‍🎓 **Nombres y apellidos del estudiante** | Yimmy Onner Angulo Torres |
 
 ---
